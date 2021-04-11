@@ -13,12 +13,13 @@
 
 ### <center>******************** <br>SASS (css pre-compiler) <br><br> M.E.R.N.<br>(needs no introduction) <br><br>[**_OpenWeather API_**](https://rapidapi.com/community/api/open-weather-map?endpoint=53aa6041e4b00287471a2b62)
 
+> ghh
 
 
-|<center>***************************************************** 
+|<center>*****************************************************
 |-
 
-| <center>******************** <br> USER STORIES: <br> <br> *  <br><br> *  <br><br> *   <br><br> 
+| <center>👥👥👤👤👤👥👥 <br>🕺 🚶 🤾 🤸 🤼‍♂️ USER STORIES: ️🏋‍♂  🕴️🚶🏌️🕺 <br><br> *  <br><br> *  <br><br> *   <br><br> 
 |-
 
 |<center>******************** <br> TO BE DONE!..<br> <br>*  <br><br> *  <br><br> *   <br><br> 
