@@ -1,0 +1,36 @@
+<!DOCTYPE html>[] <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="main.css" />
+    <title>Document</title>
+  </head>
+
+  <body>
+    <div id="parent-id">
+      <p>1</p>
+      <p class="test">2</p>
+      <p>3</p>
+      <p>4</p>
+    </div>
+
+    <script>
+      let parentDOM = document.getElementById("parent-id");
+
+      let test = parentDOM.getElementsByClassName("test"); // a list of matching elements, *not* the element itself
+      console.log(test); //HTMLCollection[1]
+
+      let testTarget = parentDOM.getElementsByClassName("test")[0]; // the first element, as we wanted
+      console.log(testTarget); //<p class="test">hello world 2</p>
+    </script>
+
+    <div>
+      <p class="p">- p -</p>
+      <h1>niss</h1>
+    </div>
+  </body>
+  <script src="index.js"></script>
+</html>
