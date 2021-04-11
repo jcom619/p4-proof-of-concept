@@ -1,6 +1,6 @@
 # Deliverable - P4 Proof Of Concept
 
-[][<style>h1 { color: red; }</style>]
+[[]<style>h1 { color: red; }</style>]
 
 
 ![Inline Link](https://media2.giphy.com/media/k8aCl2VvSeBlRvL7Yf/giphy.gif?cid=5e214886936f38bc795d75080a46c7c1c0ce7bdc0f88320b&rid=giphy.gif&ct=g)
