@@ -1,4 +1,4 @@
-# <center> 
+# <center>
 
  #  <center>☀️ Weather-UI ☀️
 ##### <center>dynamic UI that changes according to local weather and time zone changes
@@ -100,3 +100,4 @@ test({
   "cod": 200
 })
 ```
+</center> 
