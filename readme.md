@@ -1,4 +1,4 @@
-# <center>
+# <center> 
 
  #  <center>☀️ Weather-UI ☀️
 ##### <center>dynamic UI that changes according to local weather and time zone changes
@@ -11,26 +11,31 @@
 |-
 
 
-### <center>******************** <br>SASS (css pre-compiler) <br><br> M.E.R.N.<br>(needs no introduction) <br><br>[**_OpenWeather API_**](https://rapidapi.com/community/api/open-weather-map?endpoint=53aa6041e4b00287471a2b62)
-
-> ghh
+###### <center>******************** <br>SASS (css pre-compiler) <br><br> M.E.R.N.<br>(needs no introduction) <br><br>[**_OpenWeather API_**](https://rapidapi.com/community/api/open-weather-map?endpoint=53aa6041e4b00287471a2b62)
 
 
-|<center>*****************************************************
+
+ |<center> 🕺 🏌️ 🚶 🤼‍♂️ 🏋️‍♂️ 🤸 🤾 🕴️💃 🕺 🏌️ 🚶 🤼‍♂️ 🏋️‍♂️ 🤸 🤾 🕴️💃 🕴️🕴️<br>*****************************************************<br>  USER STORIES:<br><br>- <br><br>-<br><br>-<br><br>-<br><br>
 |-
 
-| <center>👥👥👤👤👤👥👥 <br>🕺 🚶 🤾 🤸 🤼‍♂️ USER STORIES: ️🏋‍♂  🕴️🚶🏌️🕺 <br><br> *  <br><br> *  <br><br> *   <br><br> 
+### <center>
+
+
+|<center>***************************************************** <br>TO BE DONE!...<br>********************
 |-
 
-|<center>******************** <br> TO BE DONE!..<br> <br>*  <br><br> *  <br><br> *   <br><br> 
+###### <center>Study how to impliment the following
+
+#### <center> [for ideas](https://hackerthemes.com/kit/> "customize BS variables")
+
+apply some logic to automate styles based on API output
+
+|**_DONE!..._**
 |-
 
-#### <center> [Customize](https://hackerthemes.com/kit/)  BS variables apply some logic to automate classname alternation
+* Test<br>
+[open-weather-map](https://rapidapi.com/community/api/open-weather-map?endpoint=53aa6041e4b00287471a2b62)
 
-|<center>******************** <br> DONE
-|-
-
-# <center> Test - [open-weather-map](https://rapidapi.com/community/api/open-weather-map?endpoint=53aa6041e4b00287471a2b62)
 
 
 ```js
@@ -101,4 +106,3 @@ test({
   "cod": 200
 })
 ```
-</center> 
